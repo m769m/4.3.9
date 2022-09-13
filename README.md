@@ -1,1 +1,6 @@
-# 4.3.9![Снимок экрана от 2022-09-14 01-56-56](https://user-images.githubusercontent.com/99034137/189987451-2331638d-e1b2-40c0-acf3-fc5da8b9b7e3.png)
+![Снимок экрана от 2022-09-14 01-56-56](https://user-images.githubusercontent.com/99034137/189987650-784b48e3-a80c-48ce-8c26-0801efef2a8e.png)
+![Снимок экрана от 2022-09-14 01-57-40](https://user-images.githubusercontent.com/99034137/189987681-b1901011-e698-4e66-b8fd-ca9f969ee802.png)
+![Снимок экрана от 2022-09-14 01-58-17](https://user-images.githubusercontent.com/99034137/189987694-28a9e1ab-ac3d-4b9d-b6c1-16886d242b73.png)
+![Снимок экрана от 2022-09-14 01-58-22](https://user-images.githubusercontent.com/99034137/189987711-3639d80c-4792-47c4-9806-ccb57a834113.png)
+![Снимок экрана от 2022-09-14 01-58-32](https://user-images.githubusercontent.com/99034137/189987722-5fad2c1e-2cd2-4239-a2e2-8b05f2739594.png)
+![Снимок экрана от 2022-09-14 01-58-48](https://user-images.githubusercontent.com/99034137/189987749-49b9c38f-ee5f-4746-8752-c20678368b75.png)
